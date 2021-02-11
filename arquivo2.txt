@@ -1,0 +1,3 @@
+Arquivo criado para testes
+
+Adicionei e estraguei o arquivo
